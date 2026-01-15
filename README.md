@@ -1,6 +1,6 @@
-# Cobol Codes
-Small codes and/or projects done in COBOL
+# Luhn Algorithm
+Implementation of the Luhn Algoritm in COBOL
 
 ## Repository Structure
-- luhn\_algo: Implementation of the Luhn Algoritm in COBOL
-- report\_generator: A COBOL code that generates a report
+- LUHN.cbl - Cobol Code with the algorithm
+- LUHN.jcl - JCL used to execute in Batch
